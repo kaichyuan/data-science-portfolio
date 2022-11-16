@@ -1,6 +1,6 @@
 # Hello, I'm Casey Cheng :wave:
 
-This is a repository that I use to organise my data science related personal projects, knowledge and goals.
+This is a repository that I use to organise my data science related personal projects, knowledge and goals. I also write data science related articles on [Medium](https://casey-cheng.medium.com/).
 
 ## Contents
 
